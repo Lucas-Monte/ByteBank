@@ -12,6 +12,7 @@
     width: 150px;
     border-radius: 100%;
     margin: 1em 0;
+    background-image: url('/imagens/Avatar.png');
 }
 
 .sidebar h2 {
